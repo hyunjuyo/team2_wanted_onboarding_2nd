@@ -4,6 +4,9 @@
 ### 참가 기업
 자비스앤빌런즈, 푸시뉴스, 페이워크
 
+### 팀프로젝트
+- Week1 : 원티드 국민연금 DB를 이용해서 유니콘 기업 발굴하기
+
 ### 팀원
 - 유현준(https://github.com/hyunjuyo)
 - 정서현(https://github.com/Jenna-Jung)
