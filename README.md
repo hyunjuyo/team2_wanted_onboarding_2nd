@@ -4,6 +4,9 @@
 ### 참가 기업
 자비스앤빌런즈, 푸시뉴스, 페이워크
 
+### week1 - 유니콘 기업 찾기 
+- 데이터 출처: 원티드 DB에서 제공한: **company_nps_data.csv**
+
 ### 팀원
 - 유현준(https://github.com/hyunjuyo)
 - 정서현(https://github.com/Jenna-Jung)
