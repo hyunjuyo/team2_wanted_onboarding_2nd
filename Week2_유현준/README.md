@@ -5,6 +5,8 @@
 - [Week2] Jobis_3o3_DB_EDA_v0.7.ipynb : 작업 진행 중(3차)
 - [Week2] Jobis_3o3_DB_EDA_v1.0.ipynb : 완성본(v1.0)
 
+<br/><br/>
+
 ## 완성본(v1.0) 주요 내용
 
 ### 자비스앤빌런즈 "삼쩜삼" 서비스에 대한 고객 Data 분석

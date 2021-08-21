@@ -5,6 +5,8 @@
 - [Week1] wanted_DB_EDA_v1.0.ipynb : 완성본(1차)
 - team2_week1_analysis.ipynb : 최종 발표자료
 
+<br/><br/>
+
 ## 최종 발표자료 주요 내용
 
 ### [Team2] 원티드 국민연금 DB를 이용해서 유니콘 기업 발굴하기
