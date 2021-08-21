@@ -5,7 +5,7 @@
 - [Week2] Jobis_3o3_DB_EDA_v0.7.ipynb : 작업 진행 중(3차)
 - [Week2] Jobis_3o3_DB_EDA_v1.0.ipynb : 완성본(v1.0)
 
-<br/><br/>
+<br/>
 
 ## 완성본(v1.0) 주요 내용
 

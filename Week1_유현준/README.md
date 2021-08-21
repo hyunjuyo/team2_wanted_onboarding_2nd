@@ -5,7 +5,7 @@
 - [Week1] wanted_DB_EDA_v1.0.ipynb : 완성본(1차)
 - team2_week1_analysis.ipynb : 최종 발표자료
 
-<br/><br/>
+<br/>
 
 ## 최종 발표자료 주요 내용
 
