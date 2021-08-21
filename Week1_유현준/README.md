@@ -1,13 +1,13 @@
-# File 현황
+## File 현황
 
 - [Week1] wanted_DB_EDA_v0.1.ipynb : 작업 진행 중(1차)
 - [Week1] wanted_DB_EDA_v0.3.ipynb : 작업 진행 중(2차)
 - [Week1] wanted_DB_EDA_v1.0.ipynb : 완성본(1차)
 - team2_week1_analysis.ipynb : 최종 발표자료
 
-# 최종 발표자료 주요 내용
+## 최종 발표자료 주요 내용
 
-## [Team2] 원티드 국민연금 DB를 이용해서 유니콘 기업 발굴하기
+### [Team2] 원티드 국민연금 DB를 이용해서 유니콘 기업 발굴하기
 
 ### 1. DB구조 파악 및 Column별 검토¶
 
