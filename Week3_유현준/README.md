@@ -1,4 +1,4 @@
-## File 현황
+# File 현황
 
 - [Week3] moduparking_DB_EDA_v0.1.ipynb : 작업 진행 중(1차)
 - [Week3] moduparking_DB_EDA_v0.3.ipynb : 작업 진행 중(2차)
@@ -8,7 +8,7 @@
 
 <br/>
 
-## 완성본(v1.0) 주요 내용
+# 완성본(v1.0) 주요 내용
 
 ### 모두의주차장 앱 이용자별 향후 이용건수 예측
 
