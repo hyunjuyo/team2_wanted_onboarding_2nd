@@ -24,4 +24,7 @@
 3-2. Feature 추가, 외부데이터 활용 및 유저별 이용건수 예측(2차)<br/>
 3-3. USER 그룹 지표 추가 및 유저별 이용건수 예측(3차)<br/>
 
+<img src="https://user-images.githubusercontent.com/76440511/130348788-8dfe7f94-2ea0-4b48-b7ab-8a15c6be58ca.png" height="300">
+
 ### 4. 결론
+- 이용자별 이용건수 예측 모델 평가(MSE, MAE) 및 정리
