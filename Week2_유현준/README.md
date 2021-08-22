@@ -21,6 +21,11 @@
 2-2. 고객의 결제여부("has_paid")에 따른 특성 비교<br/>
 2-3. 결제여부 판단을 위한 "결제비율(%)" 지표 산출 및 그룹별 특성 비교<br/>
 
+<img src="https://user-images.githubusercontent.com/76440511/130347734-d2bc55a7-f7b2-493c-9d78-69ad4b3947b3.png" width="500">
+
 ### 3. 고객의 수수료 결제금액의 합을 높이기 위한 방안 검토
 
+<img src="https://user-images.githubusercontent.com/76440511/130347993-0465231c-14e4-42a7-8809-b40d8c12c4ad.png" width="525">
+
 ### 4. 결론
+- "고객의 수수료 결제금액의 총합"을 높이기 위한 방안 - 2가지 차원
