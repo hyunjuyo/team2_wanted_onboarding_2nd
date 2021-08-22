@@ -11,11 +11,10 @@
 
 ### 팀원
 - 유현준(https://github.com/hyunjuyo)
-- 정서현(https://github.com/Jenna-Jung)
-- 정상현(https://github.com/sanghyun-Jung09)
-- 맹광국(https://github.com/Maeng89)
 - 김기성(https://github.com/Ki-Sung)
+- 정상현(https://github.com/sanghyun-Jung09)
 - 최창효(https://github.com/qwerty1434)
-- 박선하(https://github.com/Horoli)
+- 맹광국(https://github.com/Maeng89)
 - 김한빈(https://github.com/talkin24)
 - 최현숙(https://github.com/sooksok)
+- 정서현(https://github.com/Jenna-Jung)
