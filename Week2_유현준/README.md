@@ -1,4 +1,6 @@
-# File 현황
+# 원티드(wanted) "프리온보딩 코스_데이터 분석가" 두번째 프로젝트
+
+### File 현황
 
 - [Week2] Jobis_3o3_DB_EDA_v0.1.ipynb : 작업 진행 중(1차)
 - [Week2] Jobis_3o3_DB_EDA_v0.3.ipynb : 작업 진행 중(2차)
