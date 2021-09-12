@@ -26,9 +26,25 @@
 
 ### 3. 유저별 이용건수 예측 - 단계별 진행
 
-3-1. 예측 모델에 활용할 주요 Feature 선별 및 유저별 이용건수 예측(1차)<br/>
-3-2. Feature 추가, 외부데이터 활용 및 유저별 이용건수 예측(2차)<br/>
-3-3. USER 그룹 지표 추가 및 유저별 이용건수 예측(3차)<br/>
+#### 3-1. 예측 모델에 활용할 주요 Feature 선별 및 유저별 이용건수 예측(1차)<br/>
+
+&nbsp;&nbsp;&nbsp; * 기존 Feature별 적용여부 판단(지금까지 분석한 내용 기준)
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "JOIN_DATE" => 유저별 1개씩 존재하는 가입일 정보로 "USER_ID" 대비 추가 변별력 없음(적용 보류)
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "D_TYPE" => 유저별 1개씩 존재하는 값으로 "USER_ID" 대비 추가 변별력 없음(적용 보류)
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "STORE_ID" => 유저가 이용한 점포의 고유 id로 변별력 있음(적용)
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "GOODS_TYPE" => 각 TYPE별로 이용행태가 다르게 나타나므로 변별력 있음(적용)
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "DATE" => 날짜별로 이용행태 다르게 나타나므로 변별력 있음(적용) / 단, 연도 및 월을 제외한 이용일("DATE_D") 기준으로 적용
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "AD1" => 점포id별로 1개씩 존재하는 주소값으로 "STORE_ID" 대비 추가 변별력 없음(적용 보류)
+
+&nbsp;&nbsp;&nbsp; * 추가 적용 Feature
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "DATE_WDAY" => "DATE"에서 추출한 요일 정보로 요일별 특성 반영
+ 
+#### &nbsp;&nbsp;&nbsp;=> "DATE_WDAY", "DATE_D", "GOODS_TYPE", "STORE_ID" 기준 예측모델 적용
+#### &nbsp;&nbsp;&nbsp;=> 유저별 이용건수 1차 예측 결과, MSE는 0.16944 ~ 0.17540 수준, MAE는 0.08399 ~ 0.08621 수준으로 측정됨
+#### &nbsp;&nbsp;&nbsp;=> 현재까지 적용한 OneHotEncoding & Scaler 버전을 기반으로, 이후 추가 Feature 적용 등을 통한 예측 모델 고도화 테스트 진행 예정
+
+#### 3-2. Feature 추가, 외부데이터 활용 및 유저별 이용건수 예측(2차)<br/>
+#### 3-3. USER 그룹 지표 추가 및 유저별 이용건수 예측(3차)<br/>
 
 <img src="https://user-images.githubusercontent.com/76440511/130348788-8dfe7f94-2ea0-4b48-b7ab-8a15c6be58ca.png" height="300">
 
