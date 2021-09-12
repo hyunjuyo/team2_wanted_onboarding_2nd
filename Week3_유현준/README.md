@@ -36,6 +36,15 @@
 <img src="https://user-images.githubusercontent.com/76440511/132984793-0250e201-699f-4ad5-a614-0a46b2396379.png" width="900">
 
 #### 3-2. Feature 추가, 외부데이터 활용 및 유저별 이용건수 예측(2차)<br/>
+
+<img src="https://user-images.githubusercontent.com/76440511/132992969-9bf77ceb-8a6b-4c03-b0bf-5f55a210df47.png" width="600">
+
+#### &nbsp;&nbsp;&nbsp;=> 유저별 이용건수 2차 예측 결과
+
+<img src="https://user-images.githubusercontent.com/76440511/132993163-f547ce82-cdac-4f85-bda9-5acefa5d4ee7.png" width="820">
+
+#### &nbsp;&nbsp;&nbsp;=> 추가적으로 이용건수 기준의 USER 그룹 지표를 적용한 뒤, 모델 성능 개선 테스트 진행 예정
+
 #### 3-3. USER 그룹 지표 추가 및 유저별 이용건수 예측(3차)<br/>
 
 <img src="https://user-images.githubusercontent.com/76440511/130348788-8dfe7f94-2ea0-4b48-b7ab-8a15c6be58ca.png" height="300">
