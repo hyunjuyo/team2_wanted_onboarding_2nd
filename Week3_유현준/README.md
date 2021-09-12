@@ -43,6 +43,8 @@
 #### &nbsp;&nbsp;&nbsp;=> 유저별 이용건수 1차 예측 결과, MSE는 0.16944 ~ 0.17540 수준, MAE는 0.08399 ~ 0.08621 수준으로 측정됨
 #### &nbsp;&nbsp;&nbsp;=> 현재까지 적용한 OneHotEncoding & Scaler 버전을 기반으로, 이후 추가 Feature 적용 등을 통한 예측 모델 고도화 테스트 진행 예정
 
+<img src="https://user-images.githubusercontent.com/76440511/132984793-0250e201-699f-4ad5-a614-0a46b2396379.png" height="700">
+
 #### 3-2. Feature 추가, 외부데이터 활용 및 유저별 이용건수 예측(2차)<br/>
 #### 3-3. USER 그룹 지표 추가 및 유저별 이용건수 예측(3차)<br/>
 
