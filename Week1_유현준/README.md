@@ -38,6 +38,8 @@
   - 세부지표 2) 3개년 지속성장 여부
   - 세부지표 3) 3개년 평균매출
 
+<img src="https://user-images.githubusercontent.com/76440511/132988789-4b4c1706-9628-40d4-9d7a-413caa3396d5.png" width="600">
+
 ##### &nbsp;&nbsp;&nbsp; '인적자원' 관련 지표
 
 - 지표2. 월별_직원수 => 증감율 기준 후보 기업 추출
