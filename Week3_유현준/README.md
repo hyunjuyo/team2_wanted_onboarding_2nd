@@ -20,6 +20,10 @@
 
 ### 2. 예측 모델에 활용할 주요 Feature 선별을 위한 분석작업
 
+\- 요일 및 날짜에 따른 이용량 변화 분석 : 월별/"GOODS_TYPE"별 기준 복합 적용
+
+<img src="https://user-images.githubusercontent.com/76440511/132984015-c7c5fbdd-d17a-4528-9d13-15ee2a2e7d2e.png" height="400">
+
 ### 3. 유저별 이용건수 예측 - 단계별 진행
 
 3-1. 예측 모델에 활용할 주요 Feature 선별 및 유저별 이용건수 예측(1차)<br/>
