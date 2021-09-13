@@ -8,7 +8,7 @@
 - [Week3] moduparking_DB_EDA_Modeling_v0.7.ipynb : 작업 진행 중(4차)
 - [Week3] moduparking_DB_EDA_Modeling_v1.0.ipynb : 완성본(v1.0)
 
-### ※ 본 프로젝트 data 제공기업의 요청으로, 상세 data 및 분석 작업파일(.ipynb)들은 비공개 처리함
+### ※ 본 프로젝트 data 제공기업의 요청으로, 상세 data 및 위 분석작업파일(.ipynb)들은 비공개 처리함
 &nbsp;&nbsp;&nbsp; => 완성본(v1.0) 주요 내용 아래 참조
 
 <br/>
