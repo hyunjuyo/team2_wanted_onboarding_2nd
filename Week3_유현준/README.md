@@ -8,6 +8,9 @@
 - [Week3] moduparking_DB_EDA_Modeling_v0.7.ipynb : 작업 진행 중(4차)
 - [Week3] moduparking_DB_EDA_Modeling_v1.0.ipynb : 완성본(v1.0)
 
+### ※ 본 프로젝트 data 제공기업의 요청으로, 상세 data 및 분석 작업파일(.ipynb)들은 비공개 처리함
+&nbsp;&nbsp;&nbsp; => 완성본(v1.0) 주요 내용 아래 참조
+
 <br/>
 
 # 완성본(v1.0) 주요 내용
@@ -67,7 +70,7 @@
 
 <img src="https://user-images.githubusercontent.com/76440511/133056167-4382f22a-8ee7-4a81-b6e6-619c654ae24a.png" width="900">
 
-#### &nbsp;&nbsp;&nbsp;=> 1차, 2차에서 부분적인 성능 개선 효과가 있긴 했지만 제한적이었던 데에 반해, 3차에서는 확실한 성능 개선 효과가 나타나는 것을 확인함
+#### &nbsp;&nbsp;&nbsp;=> 앞서 1차, 2차에서 부분적인 성능 개선 효과가 있긴 했지만 제한적이었던 데에 반해, 3차에서는 확실한 성능 개선 효과가 나타나는 것을 확인함
 #### &nbsp;&nbsp;&nbsp;=> 더불어, 랜덤포레스트 적용 시 하이퍼 파라미터 튜닝을 통해 추가적인 성능 개선이 나타남을 확인함
 
 ### 4. 결론
