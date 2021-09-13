@@ -24,7 +24,10 @@
 
 <img src="https://user-images.githubusercontent.com/76440511/132984015-c7c5fbdd-d17a-4528-9d13-15ee2a2e7d2e.png" width="700">
 
+<br/>
+
 ### 3. 유저별 이용건수 예측 - 단계별 진행
+<br/>
 
 #### 3-1. 예측 모델에 활용할 주요 Feature 선별 및 유저별 이용건수 예측(1차)<br/>
 
@@ -34,6 +37,8 @@
 #### &nbsp;&nbsp;&nbsp;=> 현재까지 적용한 OneHotEncoding & Scaler 버전을 기반으로, 이후 추가 Feature 적용 등을 통한 예측 모델 고도화 테스트 진행 예정
 
 <img src="https://user-images.githubusercontent.com/76440511/132984793-0250e201-699f-4ad5-a614-0a46b2396379.png" width="900">
+
+<br/>
 
 #### 3-2. Feature 추가, 외부데이터 활용 및 유저별 이용건수 예측(2차)<br/>
 
@@ -45,9 +50,22 @@
 
 #### &nbsp;&nbsp;&nbsp;=> 추가적으로 이용건수 기준의 USER 그룹 지표를 적용한 뒤, 모델 성능 개선 테스트 진행 예정
 
+<br/>
+
 #### 3-3. USER 그룹 지표 추가 및 유저별 이용건수 예측(3차)<br/>
 
+<img src="https://user-images.githubusercontent.com/76440511/133054463-10f2b505-08d1-449c-b468-cf30e56f44fe.png" width="500">
+
+<img src="https://user-images.githubusercontent.com/76440511/133054764-fb1b15f5-cfcd-4c89-8a56-23b2ace7a42a.png" width="280">
+
+##### "USER_GRADE" Feature 적용 후, 예측 수행 및 성능 측정
+ - "요일" 및 "GOODS_TYPE" OneHotEncoding
+ - Scaling 진행
+ - Training data, Test data 준비
+
 <img src="https://user-images.githubusercontent.com/76440511/130348788-8dfe7f94-2ea0-4b48-b7ab-8a15c6be58ca.png" height="300">
+
+<img src="https://user-images.githubusercontent.com/76440511/133056167-4382f22a-8ee7-4a81-b6e6-619c654ae24a.png" width="900">
 
 ### 4. 결론
 - 이용자별 이용건수 예측 모델 평가(MSE, MAE) 및 정리
