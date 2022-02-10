@@ -46,5 +46,6 @@
 - 지표3. 인당_연금보험료(평균) => 증감율 기준 후보 기업 추출
 
 ### 4. 유니콘 기업 최종 선정
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/76440511/153357083-b0a9f0e8-3fe6-444b-a5c3-fbfaa4eea421.png">
 
 - (첨부) 최종 유니콘 선정 회사ID별 그래프 추이 확인
