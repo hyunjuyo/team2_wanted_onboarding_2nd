@@ -16,6 +16,9 @@
 <br/>
 
 ### 1. Data 구조 파악 및 Feature별 검토
+- 총 9개 Feature, 10만개 data로 구성
+
+<img width="646" alt="image" src="https://user-images.githubusercontent.com/76440511/156967131-4728c164-2730-4db9-bdae-1f2507c3c156.png">
 
 ### 2. 고객의 결제여부에 영향을 미치는 요인 분석
 
